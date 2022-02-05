@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVMNoteApp</string>
+    <string name="check_icon">Check icon</string>
+    <string name="task_name">Note something down…</string>
+    <string name="mark_as_important_chbx">Mark as important</string>
+    <string name="fab">fab</string>
+</resources>
