@@ -18,3 +18,7 @@
 - Coroutines
 - Room persistence library
 - Dagger hilt
+
+## Screenshots
+
+![Screenshot_20250409-132633](https://github.com/user-attachments/assets/78ed7fd2-3b88-4bf5-a83a-a29cdd6e5ad8)
