@@ -21,4 +21,11 @@
 
 ## Screenshots
 
-![Screenshot_20250409-132633](https://github.com/user-attachments/assets/78ed7fd2-3b88-4bf5-a83a-a29cdd6e5ad8)
+# Start Screen
+![Screenshot_20250411-125949](https://github.com/user-attachments/assets/f434470b-889c-41ec-bbc8-b4a5ca127cfe)
+
+# Home Screen
+![Screenshot_20250411-132135](https://github.com/user-attachments/assets/eaea1a2b-3c3a-45c9-968e-b2cada375a9e)
+
+# Note Creation Screen
+![Screenshot_20250411-131630](https://github.com/user-attachments/assets/e2e5234a-3f82-4362-a4d0-c2de38665902)
